@@ -1,3 +1,3 @@
 # devops
-dev ops practice
+sample dev ops practice
 new file
